@@ -1,7 +1,9 @@
 # Forked from :
-  https://github.com/sjhoeksma/cordova-plugin-keychain-touch-id
-  |-- fork https://github.com/paychex/cordova-plugin-keychain-touch-id
-      |-- fork https://github.com/benoitgoupilleau/cordova-plugin-keychain-touch-id **<- current master**
+https://github.com/sjhoeksma/cordova-plugin-keychain-touch-id
+
+|-- fork https://github.com/paychex/cordova-plugin-keychain-touch-id
+
+|-- fork https://github.com/benoitgoupilleau/cordova-plugin-keychain-touch-id **<- current master**
 
 # cordova-plugin-keychain-touch-id
 
